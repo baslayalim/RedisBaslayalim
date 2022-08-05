@@ -1,7 +1,7 @@
 # RedisBaslayalim
 Redis Client NoSql , Read, Save vs.
 
-public static int BaslayalimKaydet(string host, string key, string value)
+       public static int BaslayalimKaydet(string host, string key, string value)
         {
             try
             {
